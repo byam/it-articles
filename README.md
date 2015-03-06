@@ -57,7 +57,7 @@ $ vagrant up
 ```
 Амжилттай суусны дараа VirtualBox дээр доорх байдлаар myCentOSVM running гэж харагдана.
 
-[IMAGE-1]
+![alt tag](https://raw.github.com/byam/vagrant/master/images/IMAGE-1.png)
 
 ##3. Vitual Machine stop・restart・delete
 
@@ -112,4 +112,3 @@ $ vagrant reload
 
 ###web хуудсаа үзэх
 browser дээр "192.168.33.10" ороход доорхтой адилаар "Hello World!" гэж гарч ирэх болно.
-[IMAGE-2]
