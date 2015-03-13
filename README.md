@@ -2,7 +2,7 @@
 
 ##1. Vagrant гэж юу вэ?
 ### Товчхондоо
-- Virtual machine
+- Virtual machine control
 
 ### Албан ёсны сайт
 -  https://www.vagrantup.com
