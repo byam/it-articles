@@ -50,8 +50,8 @@ set mouse=a
 ### Бэлтгэл
 VIM дээр plugin суулгахын тулд, plugin зохьцуулагч NeoBundle суулгасан байх хэрэгтэй. Доорх линкээр орж суулгана уу.
 
-[VIM дээр NeoBundle суулгах]()
+[VIM дээр NeoBundle суулгах](https://github.com/byam/vagrant/blob/master/neobundle-install.md)
 
 ### Хэрэглэхэд хялбар **Vim Plugin**-ууд суулгах
 Доорх линкээр орж суулгана уу
-* [Хэрэглэхэд хялбар **Vim Plugin**-ууд суулгах]()
+* [Хэрэглэхэд хялбар **Vim Plugin**-ууд суулгах](http://qiita.com/jnchito/items/5141b3b01bced9f7f48f)
