@@ -56,17 +56,18 @@ Installing setuptools, pip...done.
 
 ```sh
 $ source TEST-ENV/bin/activate
+(TEST-ENV)$
 ```
 
 Доорх байдлаар тухайн хэрэглэж байгаа package нь ямар орчинд байгааг мэдэж болно.
 
 ```sh
 # python нь шинэ орчинд анхнаасаа суугдсан байгаа
-$ which python
+(TEST-ENV)$ which python
 /Users/Bya/TEST-ENV/bin/python			# TEST-ENV орчин доторх python-г ашиглаж байна гэсэн үг
 
 # тухайн орчны python package-үүдийг харах 
-$ pip list
+(TEST-ENV)$ pip list
 pip (6.0.8)
 setuptools (12.0.5)		# pip, setuptools нь анхнаасаа шинэ орчинд суугдсан байгаа
 
@@ -76,7 +77,7 @@ setuptools (12.0.5)		# pip, setuptools нь анхнаасаа шинэ орчи
 
 ```sh
 # Орчныг идэвхигүй болгох
-$ deactivate
+(TEST-ENV)$ deactivate
 
 # Энэ үед ямар python ашиглаж байгаагааг харвал
 $ which python

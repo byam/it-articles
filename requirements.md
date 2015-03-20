@@ -2,10 +2,10 @@
 
 ## virtualenv орчин доторх package-уудыг хадгалж авах
 
-Одоогийн байгаа орчин доторх python package-уудыг харах
+Одоогийн байгаа TEST-ENV орчин доторх python package-уудыг харах
 
 ```sh
-$ pip list
+(TEST-ENV)$ pip list
 aniso8601 (0.92)
 Flask (0.10.1)
 Flask-RESTful (0.3.2)
@@ -25,10 +25,10 @@ Werkzeug (0.10.1)
 
 ```sh
 # Доорх командаар package-уудын нэр болон version-г хадгалж авна
-$ pip freeze > requirements.txt
+(TEST-ENV)$ pip freeze > requirements.txt
 
 # requirements.txt-н доторхыг харах
-$ cat requirements.txt
+(TEST-ENV)$ cat requirements.txt
 aniso8601==0.92
 Flask==0.10.1
 Flask-RESTful==0.3.2
@@ -42,10 +42,10 @@ SQLAlchemy==0.9.9
 Werkzeug==0.10.1
 ```
 
-## Хадгалж авсан package-ууд шинэ орчинд нэг дотор суулгах
+## Хадгалж авсан package-уудыг шинэ орчинд нэг дор суулгах
 
-**requirements.txt** дотор хадгалж авсан package-уудыг шинэ орчинд нэг дор суулгах
+**requirements.txt** дотор хадгалж авсан package-уудыг шинэ орчин TEST-NEW-ENV дотор суулгах
 
 ```sh
-$ pip install -r requirements.txt
+(TEST-NEW-ENV)$ pip install -r requirements.txt
 ```

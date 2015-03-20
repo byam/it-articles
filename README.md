@@ -19,3 +19,4 @@
 * [Flask суулгах](https://github.com/byam/vagrant/blob/master/flask-install.md)
 * [virtualenv суулгах, хэрэглэх](https://github.com/byam/vagrant/blob/master/virtualenv-install.md)
 * [virtualenv орчин доторх package-уудыг хадгалж авах, түүнийгээ өөр орчинд суулгах](https://github.com/byam/vagrant/blob/master/requirements.md)
+* [virtualenvwrapper суулгах, хэрэглэх](https://github.com/byam/vagrant/blob/master/virtualenvwrapper-install.md)
