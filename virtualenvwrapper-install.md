@@ -9,7 +9,7 @@
 ### Албас ёсны сайт
 
 * http://virtualenvwrapper.readthedocs.org/en/latest/index.html
-* 
+
 ## virtualenvwrapper суулгах
 
 ### Бэлтгэл
@@ -28,7 +28,7 @@ pip, virtualenv амжилттай суусан бол доорх байдлаа
 $ sudo pip install virtualenvwrapper
 
 # (.bashrc , .zshrc , .profile) гэх startup shell файлдаа доорхыг хуулж нэмж бичнэ
-$ vim ~/.zshrc			# zsh ашигладаг тул ~/.zshrc файл дотор vim ашиглан бичэв
+$ vim ~/.zshrc			# zsh ашигладаг тул ~/.zshrc файл дотор vim ашиглан бичив
 	export WORKON_HOME=$HOME/.virtualenvs
 	export PROJECT_HOME=$HOME/Devel
 	source /usr/local/bin/virtualenvwrapper.sh
