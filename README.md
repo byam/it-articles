@@ -16,3 +16,4 @@
 * [VIM дээрх тохиргоонууд](https://github.com/byam/vagrant/blob/master/vimrc.md)
 * [VIM дээр NeoBundle суулгах](https://github.com/byam/vagrant/blob/master/neobundle-install.md)
 * [pip суулгах](https://github.com/byam/vagrant/blob/master/pip-install.md)
+* [Flask суулгах](https://github.com/byam/vagrant/blob/master/flask-install.md)
