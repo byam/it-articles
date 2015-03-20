@@ -55,11 +55,7 @@ Installing setuptools, pip...done.
 Дээр үүсгэсэн TEST-ENV гэсэн орчныг идэвхитэй болгох
 
 ```sh
-# Үүсгэсэн орчны фолдер руу шилжинэ
-$ cd TEST-ENV
-
-# Тухайн орчныг идэвхижүүлэх
-$ . ./bin/activate
+$ source TEST-ENV/bin/activate
 ```
 
 Доорх байдлаар тухайн хэрэглэж байгаа package нь ямар орчинд байгааг мэдэж болно.
