@@ -20,3 +20,5 @@
 * [virtualenv суулгах, хэрэглэх](https://github.com/byam/vagrant/blob/master/virtualenv-install.md)
 * [virtualenv орчин доторх package-уудыг хадгалж авах, түүнийгээ өөр орчинд суулгах](https://github.com/byam/vagrant/blob/master/requirements.md)
 * [virtualenvwrapper суулгах, хэрэглэх](https://github.com/byam/vagrant/blob/master/virtualenvwrapper-install.md)
+* [Change java versions](https://github.com/byam/vagrant/blob/master/change-java-version.md)
+* [Change Apache Maven Versions](https://github.com/byam/vagrant/blob/master/change-maven-version.md)
