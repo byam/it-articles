@@ -24,3 +24,4 @@
 * [Change Apache Maven Versions](https://github.com/byam/vagrant/blob/master/change-maven-version.md)
 * [dotfiles-г GitHub дээр хадгалах](https://github.com/byam/vagrant/blob/master/dotfiles-github.md)
 * [perl: warning: Falling back to the standard locale ("C").](https://github.com/byam/vagrant/blob/master/locale-warning.md)
+* [rbenv суулгах](https://github.com/byam/vagrant/blob/master/install-rbenv.md)
