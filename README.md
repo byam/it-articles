@@ -25,4 +25,4 @@
 * [dotfiles-г GitHub дээр хадгалах](https://github.com/byam/vagrant/blob/master/dotfiles-github.md)
 * [perl: warning: Falling back to the standard locale ("C").](https://github.com/byam/vagrant/blob/master/locale-warning.md)
 * [rbenv суулгах](https://github.com/byam/vagrant/blob/master/install-rbenv.md)
-* [Sublime Text дээр Package Control суулгах](https://github.com/byam/vagrant/blob/master/package-control-install.md)
+* [Sublime Text дээр Package Control суулгах](https://github.com/byam/vagrant/blob/master/package_control-install.md)
