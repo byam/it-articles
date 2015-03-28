@@ -26,3 +26,4 @@
 * [perl: warning: Falling back to the standard locale ("C").](https://github.com/byam/vagrant/blob/master/locale-warning.md)
 * [rbenv суулгах](https://github.com/byam/vagrant/blob/master/install-rbenv.md)
 * [Sublime Text дээр Package Control суулгах](https://github.com/byam/vagrant/blob/master/package_control-install.md)
+* [Python 2x & Python 3x зэрэг суулгах](https://github.com/byam/vagrant/blob/master/install-python23.md)
