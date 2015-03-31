@@ -27,3 +27,5 @@
 * [rbenv суулгах](https://github.com/byam/vagrant/blob/master/install-rbenv.md)
 * [Sublime Text дээр Package Control суулгах](https://github.com/byam/vagrant/blob/master/package_control-install.md)
 * [Python 2x & Python 3x зэрэг суулгах](https://github.com/byam/vagrant/blob/master/install-python23.md)
+* [Mac OS X дээр Монгол толь суулгах](https://github.com/byam/vagrant/blob/master/install-altangerel.md)
+* [Mac OS X дээр Монгол Гар суулгах](https://github.com/byam/vagrant/blob/master/install-mongolian-keyboard.md)
